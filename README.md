@@ -1,6 +1,6 @@
 # Unknown Device Identification
 
-This repository contains the official implementation of the method proposed in our paper: **"A State-aware Multi-task Framework for Unknown IoT Device Identification"** (currently under review). 
+This repository contains the official implementation of the method proposed in our paper: **"An Unknown IoT Device Identification Method Based on Dual-State Representation Learning and Multi-Task Joint Inference"** (currently under review). 
 
 ## 📌 Important Notice
 
@@ -25,7 +25,7 @@ Once public, the repository is expected to include:
 
 ## 🤝 Contact
 
-For any questions regarding the paper or this repository, please open an issue on GitHub or contact the corresponding author directly at [jason_hyj@csu.edu.cn].
+For any questions regarding the paper or this repository, please open an issue on GitHub or contact the corresponding author directly at [xxx].
 
 ## 📜 License
 
