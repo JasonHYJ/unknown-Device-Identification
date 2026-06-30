@@ -1,6 +1,6 @@
 # Unknown Device Identification
 
-This repository contains the official implementation of the method proposed in our paper: **"An Unknown IoT Device Identification Method Based on Dual-State Representation Learning and Multi-Task Joint Inference"** (currently under review). 
+This repository contains the official implementation of the method proposed in our paper: **"An Unknown IoT Device Identification Method Based on Dual-State Representation Learning and Multi-Task Joint Inference"** . 
 
 ## 📌 Important Notice
 
